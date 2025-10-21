@@ -1,6 +1,6 @@
 # base-build-test
 
-Open-source sample project for the Base ecosystem. This repo includes an initial commit to qualify for the Builders & Founders program on Base.org/build.
+Open-source sample project for the Base ecosystem. This repo includes an initial commit to qualify for the Builders &  Founders program on Base.org/build.
 
 ## About
 - ✅ First commit included
@@ -11,3 +11,4 @@ Open-source sample project for the Base ecosystem. This repo includes an initial
 1. Connect this GitHub account to [Base.org/build](https://base.org/build)
 2. Ensure at least 1 commit exists (this README counts!)
 3. Enjoy your Builders & Founders role!
+🥰 🥰
