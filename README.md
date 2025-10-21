@@ -14,3 +14,4 @@ Open-source sample project for the Base ecosystem. This repo includes an initial
 2. Ensure at least 1 commit exists (this README counts!)
 3. Enjoy your Builders & Founders role!
 🥰 🥰
+Guild verification test.
