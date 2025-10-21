@@ -1,3 +1,5 @@
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # base-build-test
 
 Open-source sample project for the Base ecosystem. This repo includes an initial commit to qualify for the Builders &  Founders program on Base.org/build.
